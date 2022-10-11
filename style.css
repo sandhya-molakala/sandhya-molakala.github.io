@@ -40,7 +40,7 @@ nav img{
 }
 .index-content{
     min-height: 100vh;
-    background-image: url("images/download5.jpg");
+    background-image: url("download5.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
